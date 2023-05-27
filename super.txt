@@ -1,0 +1,27 @@
+GIT NOTES
+The command we are using so far is git config
+git config –global user .name “Liz Mulu”
+git config –global user .email mululiz106@gmail.com
+git config –global init.default branch main
+
+But to find other commands that you can use you can type:
+git config -h
+git help config ; manual page for what different commands do
+
+To clear all that in your command window you type:
+clear
+
+You now want to use git to track your files: cd (change directory)
+cd C:\Users\SAMUEL\Documents\training zone
+
+To turn the above into a git repository:
+git  init C:\Users\SAMUEL\Documents\training zone
+
+We have now created our first repository.
+To check the status:
+git status
+
+
+
+
+
